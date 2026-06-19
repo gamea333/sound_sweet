@@ -6,7 +6,7 @@
 
 Transform your audio with a fun, modern, and visually engaging editing experience designed for creators, podcasters, musicians, and content makers.
 
-[🚀 Live Demo](https://your-live-link.vercel.app) • [📖 Documentation](#features) • [💻 Installation](#installation)
+[🚀 Live Demo](https://sound-sweet.vercel.app/) 
 
 </div>
 
@@ -313,17 +313,10 @@ git push origin feature/new-feature
 
 ---
 
-## 👨‍💻 Team
-
-### Developed by SYNC
-
-Building modern experiences through creativity and technology.
-
----
 
 ## 🔗 Live Demo
 
- **https://your-live-link.vercel.app**
+ **https://sound-sweet.vercel.app/**
 
 ---
 
